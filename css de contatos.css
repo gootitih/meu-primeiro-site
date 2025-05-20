@@ -1,0 +1,18 @@
+header img {
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    border-radius: 50%;
+    border: 5px solid rgb(0, 0, 0);
+}
+div {
+ 
+}
+.info-contato {
+  margin-top: 40px;
+  color: #444;
+}
+
+.info-contato h2 {
+  margin-bottom: 10px;
+}
