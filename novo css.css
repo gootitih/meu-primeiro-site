@@ -36,3 +36,23 @@ footer img{
 nav :hover{
     color: rgb(139, 46, 46);
 }
+
+.projetos{
+    display: flex;
+    justify-content: space-between;
+    align-items:start;
+    padding: 16px;
+}
+.sobre{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 16px;
+    
+}
+.contato{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding: 16px;
+}
